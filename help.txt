@@ -1,0 +1,2 @@
+For page redirection check:====>
+Oncomplete function---> redirect variable
